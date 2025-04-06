@@ -7,4 +7,5 @@ It is linux based but VERY modified so it is NOT A LINUX OPERATING SYSTEM. The f
 Ik it has a windows wallpaper, I just like it 乁( •_• )ㄏ
 
 
-<img src="https://i.imgur.com/ArwIsDY.png" alt="demo"
+![Image](https://i.imgur.com/ArwIsDY.png)
+
