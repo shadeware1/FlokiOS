@@ -7,7 +7,7 @@ It is linux based but VERY modified so it is NOT A LINUX OPERATING SYSTEM. The f
 
 
 
-![Image](https://imgur.com/Jsc7l7A)
+![Image](https://github.com/shadeware1/FlokiOS/blob/main/Screenshot%202025-04-22%206.11.27%20PM.png?raw=true)
 ![Image](https://imgur.com/Loz0cjy)
 ![Image](https://imgur.com/WhVdjdI)   (yes i used someone else's ascii, it just looks cool, not official and credit to whoever they are)
 ![Image](https://imgur.com/D2MfsDz)
